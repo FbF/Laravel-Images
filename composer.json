@@ -1,6 +1,7 @@
 {
     "name": "fbf/laravel-images",
-    "description": "",
+    "description": "A Laravel 4 package for uploading images to a website",
+    "license": "MIT",
     "authors": [
         {
             "name": "Neil Crookes",
